@@ -2,7 +2,7 @@
 
 - 💻 I'm a **Full Stack Developer**
 - 🚀 Trying to improve my skills as a Java Developer
-- 🎨 Learning English, Japanese, software engineering, and electrical engineering
+- 🎨 Learning English, Japanese, Software Engineering, and Electrical Engineering
 
 <a href="https://www.instagram.com/cassiogoleiroo" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
