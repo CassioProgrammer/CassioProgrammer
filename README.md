@@ -4,9 +4,14 @@
 - 🚀 Trying to improve my skills as a Java Developer
 - 🎨 Learning Front End development
 
----
+<a href="https://www.instagram.com/cassiogoleiroo" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+  <a href="https://discord.com/users/730466369036091423" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
 
-## 🛠️ Tech Stack
+---
 
 ### ⚙️ Backend
 <p align="left">
@@ -50,18 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="40" height="40"/>
-</p>
-
----
-
-## 📫 Social Media
-<p align="left">
-  <a href="https://www.instagram.com/cassiogoleiroo" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-  <a href="https://discord.com/users/730466369036091423" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
 </p>
 
 ---
