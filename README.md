@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Cassio
 
-💻 I'm a **Full Stack Developer** 
-🚀 Trying to improve my skills as a Java Developer
-🎨 Learning Front End development
+💻 I'm a **Full Stack Developer**\n
+🚀 Trying to improve my skills as a Java Developer\n
+🎨 Learning Front End development\n
 
 ---
 
