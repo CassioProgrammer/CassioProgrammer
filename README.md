@@ -66,11 +66,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CassioProgrammer&theme=tokyonight&locale=pt_BR&hide_border=false" />
-</div>
-
----
