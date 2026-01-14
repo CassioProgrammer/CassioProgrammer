@@ -70,8 +70,6 @@
 ## 📊 GitHub Statistics
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CassioProgrammer&theme=tokyonight&locale=pt_BR&hide_border=false)
-</div>
-
+https://streak-stats.demolab.com?user=CassioProgrammer&theme=tokyonight&locale=pt_BR&hide_border=false
 
 ---
