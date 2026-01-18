@@ -4,6 +4,8 @@
 - 🚀 Trying to improve my skills as a Java Developer
 - 🎨 Learning English, Japanese, Software Engineering and Electrical Engineering
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=CassioProgrammer&layout=donut&theme=dark
+
 <a href="https://www.instagram.com/cassiogoleiroo" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
