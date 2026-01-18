@@ -3,13 +3,6 @@
 - 💻 I'm a **Full Stack Developer**
 - 🚀 Trying to improve my skills as a Java Developer
 - 🎨 Learning English, Japanese, Software Engineering and Electrical Engineering
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioProgrammer&layout=donut&theme=dark&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
-
 
 <a href="https://www.instagram.com/cassiogoleiroo" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -65,6 +58,13 @@
   <img src="https://imgur.com/AsCjuAk.png" alt="Discord" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioProgrammer&layout=donut&theme=dark&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
